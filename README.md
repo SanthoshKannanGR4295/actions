@@ -1,2 +1,2 @@
-Github Actions v1
+Github Actions v2
 
